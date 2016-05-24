@@ -6,18 +6,18 @@ Following each cohort (or even weekly) these notes may be updated to offer insig
 
 ## Skip to Week
 
-1. [One](week-one.md))
-1. [Two](week-two.md))
-1. [Three](week-three.md))
-1. [Four](week-four.md))
-1. [Five](week-five.md))
-1. [Six](week-six.md))
-1. [Seven](week-seven.md))
-1. [Eight](week-eight.md))
-1. [Nine](week-nine.md))
-1. [Ten](week-ten.md))
-1. [Eleven](week-eleven.md))
-1. [Twelve](week-twelve.md))
+1. [One](week-01.md))
+1. [Two](week-02.md))
+1. [Three](week-03.md))
+1. [Four](week-04.md))
+1. [Five](week-05.md))
+1. [Six](week-06.md))
+1. [Seven](week-07.md))
+1. [Eight](week-08.md))
+1. [Nine](week-09.md))
+1. [Ten](week-10.md))
+1. [Eleven](week-11.md))
+1. [Twelve](week-12.md))
 
 ## Author
 
