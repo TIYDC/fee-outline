@@ -6,6 +6,7 @@
 
 1. Code Exercise
   * Portfolio page (HTML & CSS)
+  * Discuss having a portfolio!
 1. Welcome & Process
   * Class format, Q&A, communication & availability, assignments, progress
 1. Tools of the Trade
@@ -29,15 +30,16 @@ Homework: Ice cream shop
   * Block vs inline (and none?)
   * DevTools inspector
   * Margin, padding, height, and width
-  * Border?
+  * Borders, shadow?
 
-Homework: Octocats
+Homework: Octocats (pair program?)
 
 ### Day 3
 
 1. Git review (brief)
 1. HTML Forms
   * Form tag, labels & inputs (plus select & textarea), buttons, fieldsets
+  * validation basics
 1. CSS positioning
   * Document flow, float, and absolute (z-index?)
   * Clearing (plus clearfix - two ways)
@@ -48,6 +50,7 @@ Homework: Responsive Form
 
 1. More CSS
   * More properties: more backgrounds, borders, text-align, opacity, ...?
+  * overriding and fallbacks (browser ignoring invalid declarations)
   * Pseudo classes: hover, [x]-child, focus, (in)valid
   * Transitions and transforms
 1. Web fonts and font icons
