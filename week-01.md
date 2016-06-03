@@ -4,10 +4,10 @@
 
 ### Day 1
 
-1. Welcome & Process
-  * Class format, Q&A, communication & availability, assignments, progress
 1. Code Exercise
   * Portfolio page (HTML & CSS)
+1. Welcome & Process
+  * Class format, Q&A, communication & availability, assignments, progress
 1. Tools of the Trade
   * Intro to command line and atom
   * Opening projects, sidebar, highlighting, indentation
@@ -23,7 +23,6 @@ Homework: Ice cream shop
 
 ### Day 2
 
-1. HW review
 1. **Combined:** Intro to git & GitHub
 1. Review CSS selectors
 1. The box model
@@ -36,7 +35,6 @@ Homework: Octocats
 
 ### Day 3
 
-1. HW review
 1. Git review (brief)
 1. HTML Forms
   * Form tag, labels & inputs (plus select & textarea), buttons, fieldsets
@@ -48,7 +46,6 @@ Homework: Responsive Form
 
 ### Day 4
 
-1. HW review
 1. More CSS
   * More properties: more backgrounds, borders, text-align, opacity, ...?
   * Pseudo classes: hover, [x]-child, focus, (in)valid
