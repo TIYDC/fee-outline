@@ -58,7 +58,7 @@ Homework: Calculator (Pair program)
 
 1. JavaScript Objects
   * creating a `new` Object
-  * properties and methods
+  * properties and methods (briefly)
   * literals
   * primitives vs objects and multiple references (and garbage collection, briefly)
   * nesting
@@ -67,8 +67,8 @@ Homework: Calculator (Pair program)
   * What are they? Why this vs objects? (ordered)
   * `new` Array vs literals
   * bracket syntax vs dot syntax
-  * iteration with basic for loops
+  * iteration with basic for loops, length property (zero-based)
   * indexOf
-  * push, pop, concat, and (un)shift
+  * push, pop, and (un)shift
 
 Homework: Asteroids
