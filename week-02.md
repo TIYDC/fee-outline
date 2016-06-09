@@ -52,7 +52,7 @@ Homework: Refactor shirts with Sass
   * if/else, operators (and logical operators), parens
   * switch (_if time_)
 
-Homework: Pair program a calculator
+Homework: Calculator (Pair program)
 
 ### Day 4
 

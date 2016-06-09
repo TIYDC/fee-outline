@@ -32,7 +32,7 @@ Homework: Ice cream shop
   * Margin, padding, height, and width
   * Borders, shadow?
 
-Homework: Octocats (pair program?)
+Homework: Octocats, blog (pair program?)
 
 ### Day 3
 
