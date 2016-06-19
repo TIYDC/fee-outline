@@ -6,6 +6,8 @@
 
 1. Code Exercise
   * Portfolio page (HTML & CSS)
+    - For HTML, cover: html, head, body, header, footer, main, nav, p, a, ul/li, img
+    - For CSS, cover: color, background (and color), font-\*, padding(?),
   * Discuss having a portfolio!
 1. Welcome & Process
   * Class format, Q&A, communication & availability, assignments, progress
@@ -17,7 +19,6 @@
   * Structure, semantic tags, attributes, text content (new lines & spaces)
 1. Intro to CSS
   * Rule: selector, block, declaration, property, value
-  * color, background, font-..., ??
   * Selectors: classes vs ids vs tags
 
 Homework: Ice cream shop
@@ -26,34 +27,36 @@ Homework: Ice cream shop
 
 1. **Combined:** Intro to git & GitHub
 1. Review CSS selectors
-1. The box model
-  * Block vs inline (and none?)
-  * DevTools inspector
-  * Margin, padding, height, and width
-  * Borders, shadow?
+  * Discuss descendants and grouping with a comma
+  * If time, cover attribute selector and more advanced things (sibling, direct child)
+1. HTML Forms
+  * Form tag, labels & inputs (plus select & textarea), buttons, fieldsets
+  * validation basics
 
-Homework: Octocats, blog (pair program?)
+Homework: Jedi Form
 
 ### Day 3
 
 1. Git review (brief)
-1. HTML Forms
-  * Form tag, labels & inputs (plus select & textarea), buttons, fieldsets
-  * validation basics
+1. The box model
+  * Block vs inline (and none)
+  * DevTools inspector
+  * Margin, padding, height, and width
+  * Borders, shadow?
 1. CSS positioning
-  * Document flow, float, and absolute (z-index?)
+  * Document flow, float, and absolute (and z-index)
   * Clearing (plus clearfix - two ways)
 
-Homework: Responsive Form
+Homework: Octocats; blog (pair program?)
 
 ### Day 4
 
 1. More CSS
-  * More properties: more backgrounds, borders, text-align, opacity, ...?
+  * More properties: more backgrounds, borders (radius), text-align (centering things), opacity, ...?
   * overriding and fallbacks (browser ignoring invalid declarations)
-  * Pseudo classes: hover, [x]-child, focus, (in)valid
-  * Transitions and transforms
+1. CSS pseudo classes: link/visited/active, hover, focus, first/last-child, nth-child(even/odd), (in)valid
+1. CSS transitions and transforms
 1. Web fonts and font icons
-1. CSS reset/normalization (_given time_)
+1. CSS reset/normalization
 
 Homework: T-shirt Shop
