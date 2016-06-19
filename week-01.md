@@ -38,6 +38,8 @@ Homework: Jedi Form
 ### Day 3
 
 1. Git review (brief)
+1. CSS Colors
+  * Hexadecimal and rgb formats (color picker plugin)
 1. The box model
   * Block vs inline (and none)
   * DevTools inspector

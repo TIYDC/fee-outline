@@ -5,7 +5,7 @@
 ### Day 1
 
 1. More HTML
-  * semantic tags!
+  * Why use `div` or `span`?
   * meta, html5 validator, external refs & efficiency
 1. More CSS
   * reset/normalization (_if not covered w1_)
