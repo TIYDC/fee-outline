@@ -8,6 +8,7 @@
   * Portfolio page (HTML & CSS)
     - For HTML, cover: html, head, body, header, footer, main, nav, p, a, ul/li, img
     - For CSS, cover: color, background (and color), font-\*, padding(?),
+    - Hexadecimal and rgb formats (color picker plugin)
   * Discuss having a portfolio!
 1. Welcome & Process
   * Class format, Q&A, communication & availability, assignments, progress
@@ -26,6 +27,10 @@ Homework: Ice cream shop
 ### Day 2
 
 1. **Combined:** Intro to git & GitHub
+  * What is Git & GitHub
+  * Setting up a new git repo, adding, committing, viewing log
+  * Setting up a remote and pushing (plus config and auth)
+  * Viewing history on GitHub and cloning
 1. Review CSS selectors
   * Discuss descendants and grouping with a comma
   * If time, cover attribute selector and more advanced things (sibling, direct child)
@@ -38,8 +43,6 @@ Homework: Jedi Form
 ### Day 3
 
 1. Git review (brief)
-1. CSS Colors
-  * Hexadecimal and rgb formats (color picker plugin)
 1. The box model
   * Block vs inline (and none)
   * DevTools inspector
