@@ -4,28 +4,29 @@
 
 ### Day 1
 
-1. Code Exercise
-  * Portfolio page (HTML & CSS)
-    - For HTML, cover: html, head, body, header, footer, main, nav, p, a, ul/li, img
-    - For CSS, cover: color, background (and color), font-\*, padding(?),
-    - Hexadecimal and rgb formats (color picker plugin)
-  * Discuss having a portfolio!
 1. Welcome & Process
   * Class format, Q&A, communication & availability, assignments, progress
+1. Code Exercise
+  * Portfolio page (HTML & CSS)
+    - Work in "what is markup?"
+    - For HTML, cover: html, head, body, header, footer, main, nav, p, ul/li
+    - Discuss **semantic tags**, new lines/spacing/indentation
+    - Attributes (a)
+    - Void tags (img)
+    - For CSS, cover: color, background (and color), font-\*, padding(?),
+    - Discuss CSS rule organization
+    - Hexadecimal and rgb formats (color picker plugin)
+    - CSS class vs ID vs tag name
+  * Discuss having a portfolio!
 1. Tools of the Trade
   * Intro to command line and atom
   * Opening projects, sidebar, highlighting, indentation
-1. Intro to HTML
-  * What is "markup"?
-  * Structure, semantic tags, attributes, text content (new lines & spaces)
-1. Intro to CSS
-  * Rule: selector, block, declaration, property, value
-  * Selectors: classes vs ids vs tags
 
 Homework: Ice cream shop
 
 ### Day 2
 
+1. Socratic method and failing early
 1. **Combined:** Intro to git & GitHub
   * What is Git & GitHub
   * Setting up a new git repo, adding, committing, viewing log
