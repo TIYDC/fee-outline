@@ -32,12 +32,13 @@ Homework: Ice cream shop
   * Setting up a new git repo, adding, committing, viewing log
   * Setting up a remote and pushing (plus config and auth)
   * Viewing history on GitHub and cloning
-1. Review CSS selectors
-  * Discuss descendants and grouping with a comma
-  * If time, cover attribute selector and more advanced things (sibling, direct child)
+1. GitHub Pages intro
 1. HTML Forms
   * Form tag, labels & inputs (plus select & textarea), buttons, fieldsets
   * validation basics
+1. Review CSS selectors
+  * Discuss descendants and grouping with a comma
+  * If time, cover attribute selector and more advanced things (sibling, direct child)
 
 Homework: Jedi Form
 
