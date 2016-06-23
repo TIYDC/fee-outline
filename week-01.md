@@ -32,19 +32,20 @@ Homework: Ice cream shop
   * Setting up a new git repo, adding, committing, viewing log
   * Setting up a remote and pushing (plus config and auth)
   * Viewing history on GitHub and cloning
-1. GitHub Pages intro
 1. HTML Forms
   * Form tag, labels & inputs (plus select & textarea), buttons, fieldsets
+  * GET vs POST basics
+  * enctype for files
   * validation basics
-1. Review CSS selectors
-  * Discuss descendants and grouping with a comma
-  * If time, cover attribute selector and more advanced things (sibling, direct child)
+  * using requestb.in to check data
+1. GitHub Pages intro (_if time_)
 
 Homework: Jedi Form
 
 ### Day 3
 
-1. Git review (brief)
+1. Other CSS selectors
+  * Combinators (space, direct child, sibling, comma)
 1. The box model
   * Block vs inline (and none)
   * DevTools inspector
@@ -54,16 +55,16 @@ Homework: Jedi Form
   * Document flow, float, and absolute (and z-index)
   * Clearing (plus clearfix - two ways)
 
-Homework: Octocats; blog (pair program?)
+Homework: Octocats; blog
 
 ### Day 4
 
 1. More CSS
-  * More properties: more backgrounds, borders (radius), text-align (centering things), opacity, ...?
-  * overriding and fallbacks (browser ignoring invalid declarations)
+  * More properties: more backgrounds, borders (radius), centering things, opacity, ...?
+  * specificity and overriding plus fallbacks (browser ignoring invalid declarations, _if time_)
+1. CSS reset/normalization
+1. Web fonts and font icons
 1. CSS pseudo classes: link/visited/active, hover, focus, first/last-child, nth-child(even/odd), (in)valid
 1. CSS transitions and transforms
-1. Web fonts and font icons
-1. CSS reset/normalization
 
 Homework: T-shirt Shop
