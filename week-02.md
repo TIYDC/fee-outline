@@ -6,10 +6,9 @@
 
 1. More HTML
   * Why use `div` or `span`?
-  * meta, html5 validator, external refs & efficiency
+  * meta
+  * html5 validator
 1. More CSS
-  * reset/normalization (_if not covered w1_)
-  * selector specificity & efficiency
   * unit review (px, pt, %, em, rem, vw/vh?)
   * other font considerations: line-height, letter-spacing, proper fonts!
 1. Responsive Design
@@ -30,6 +29,7 @@ Homework: Responsive shirts - discuss "refactoring"
   * Imports ("partials" and using underscores)
 1. Better Sass
   * Efficiency, naming, comments
+1. Mention frameworks
 
 Homework: Refactor shirts with Sass
 
