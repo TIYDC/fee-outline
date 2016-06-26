@@ -6,15 +6,18 @@
 
 1. More HTML
   * Why use `div` or `span`?
-  * meta
+  * meta tags (charset, description, author, ~~keywords~~)
   * html5 validator
 1. More CSS
   * unit review (px, pt, %, em, rem, vw/vh?)
   * other font considerations: line-height, letter-spacing, proper fonts!
+  * vendor prefixes
 1. Responsive Design
   * mobile-first strategy
-  * viewport meta tag
-  * media queries
+  * viewport meta tag, `width=device-width`, `initial-scale=1`, pixels and dpi
+  * media queries and breakpoints
+  * using the device toolbar
+1. Caching and how to work around it.
 
 Homework: Responsive shirts - discuss "refactoring"
 
