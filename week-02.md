@@ -8,7 +8,9 @@
   * Why use `div` or `span`?
   * meta tags (charset, description, author, ~~keywords~~)
   * html5 validator
+  * a11y, i18n, and l10n
 1. More CSS
+  * Advanced attribute selectors
   * unit review (px, pt, %, em, rem, vw/vh?)
   * other font considerations: line-height, letter-spacing, proper fonts!
   * vendor prefixes
