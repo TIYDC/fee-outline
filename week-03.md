@@ -19,14 +19,14 @@ Homework: Dice game
 ### Day 2
 
 1. More on Arrays
-  * methods: forEach, filter, map, reduce (?), indexOf, join, concat, slice (?)
+  * methods: forEach, filter, map, reduce (?), join, concat, slice/splice (_tailor to time_)
 1. More on Iteration
   * while, for...in, recursive (_if time_)
 1. More on Conditionals
   * type coercion
   * data defaults and auditing
-  * switch
   * ternary
+  * switch
 1. Unary and compound ops
   * ++, --, discuss before/after assignment
   * +=, -=, etc
