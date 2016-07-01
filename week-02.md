@@ -34,7 +34,7 @@ Homework: Responsive shirts - discuss "refactoring"
   * Imports ("partials" and using underscores)
 1. Better Sass
   * Efficiency, naming, comments
-1. Mention frameworks
+1. Mention frameworks (Bourbon)
 
 Homework: Refactor shirts with Sass
 
@@ -53,27 +53,26 @@ Homework: Refactor shirts with Sass
   * Basic structure (named args & return)
   * Calling & using the console
   * Variable scope (briefly)
+  * return ceases execution
 1. Conditionals
-  * if/else, operators (and logical operators), parens
-  * switch (_if time_)
+  * if/else/else if, operators (and logical operators), parens
 
-Homework: Calculator (Pair program)
+Homework: Calculator (Pair program?)
 
 ### Day 4
 
 1. JavaScript Objects
-  * creating a `new` Object
-  * properties and methods (briefly)
-  * literals
+  * creating a `new` Object vs literals
+  * properties (creating with object, accessing (dot and brackets), adding new)
   * primitives vs objects and multiple references (and garbage collection, briefly)
   * nesting
-  * intro to `this` in methods
+  * intro to methods and `this`
 1. JavaScript Arrays
-  * What are they? Why this vs objects? (ordered)
+  * What are they? Why arrays vs objects? (ordered)
   * `new` Array vs literals
-  * bracket syntax vs dot syntax
-  * iteration with basic for loops, length property (zero-based)
+  * numeric indeces and addign entries by index
+  * iteration with basic `for` loops, length property (zero-based)
+  * push, pop, shift, unshift
   * indexOf
-  * push, pop, and (un)shift
 
 Homework: Asteroids
