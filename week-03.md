@@ -38,6 +38,7 @@ Homework: Word Frequency and/or FizzBuzz
 1. More on functions
   * expressions and using as values (higher order, passing as args)
   * scope & hoisting, IIFE's, arguments "array" (variadic behavior)
+  * modules and namespaces
   * recursive (_if not covered yet_)
 1. strict mode
 
