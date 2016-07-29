@@ -35,7 +35,8 @@ Homework: Agency week!
   * Auth and securing routes with `$stateChangeStart`
   * State errors (`$stateChangeError`)
   * Handling code errors with states and params (no URL)
-1. Route/state Exercise **(?)**
+1. Route/state Exercise/Challenge **(?)**
+1. OAuth workflows (_if time_)
 
 Homework: Agency week!
 
