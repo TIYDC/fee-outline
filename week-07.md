@@ -23,7 +23,7 @@
   * `ng-app` and `ng-controller`
   * Data collections and `ng-repeat`
   * `ng-show` and `ng-hide`
-1. Basic filters (_if time_)
+1. Basic filters
   * currency, date, orderBy
 
 Homework: Shopular
@@ -31,13 +31,14 @@ Homework: Shopular
 ### Day 2
 
 1. Review Angular setup
+1. Using ng-cloak to prevent flashing
 1. Nested controllers
-  * Accessing parent data
+  * Accessing parent data in HTML and in controllers
 1. Data binding
   * Forms, validation, and ng-model
   * Two-way (discuss expense)
   * `ng-submit`
-1. Filters (_if not covered_)
+1. Using `ng-click`
 1. Exercise
 
 Homework: Shopular with add item form, validation, sort (?)
