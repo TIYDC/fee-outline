@@ -49,10 +49,14 @@ Homework: Shopular with add item form, validation, sort (?)
   * Factory pattern
   * Services as singletons
   * Dependency injection (into services and with services)
-1. Built-in services (briefly)
-  * `$document`, `$window`, `$q`
-1. Exercise with `$localStorage` **(?)**
-1. Code organization and style guides (_if time_)
+1. Built-in services
+  * `$document`, `$location`, `$q`
+  * jQuery Lite
+1. Code organization and style guides
+1. Basic testing setup (_if time_)
+  * Karma, Grunt
+  * Sanity check
+  * Testing a simple service
 
 Homework: Shop service
 
@@ -62,10 +66,11 @@ Homework: Shop service
   * Using Karma
   * Setting up Grunt
   * Sanity check test
+1. Testing services
+  * Injecting
 1. Testing controllers
   * Using `$controller` provider
-  * Injecting scope with `$scope` **(?)**
-1. Adding code coverage
+1. Adding code coverage (_if time_)
   * Basic principle
   * Configuration with Karma
 

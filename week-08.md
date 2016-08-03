@@ -23,31 +23,32 @@ Homework: Agency week! (Submit user stories)
   * ui-router versus built-in
   * States and configuration
   * URL params
-1. Ajax with Angular
-  * Services as data models
-  * `$http` (options, promises)
+  * Using `$state.go()`
+1. More state management
+  * Auth and securing routes with `$stateChangeStart`
+  * State errors (`$stateChangeError`)
+  * Handling code errors with states and params (no URL)
 
 Homework: Agency week!
 
 ### Day 3
 
-1. More state management
-  * Auth and securing routes with `$stateChangeStart`
-  * State errors (`$stateChangeError`)
-  * Handling code errors with states and params (no URL)
+1. Ajax with Angular
+  * Services as data models
+  * `$http` (options, promises)
+  * Testing `$http` with `$httpBackend`
 1. Route/state Exercise/Challenge **(?)**
-1. OAuth workflows (_if time_)
+1. Mocking Ajax with `$httpBackend`
+  * Flushing requests
 
 Homework: Agency week!
 
 ### Day 4
 
-1. Angular testing review
-  * Review setup and controller testing
-1. Testing services
-  * Injection
-  * Mocking Ajax (`$httpBackend` and using `.flush()`)
-1. Mocking services for controller tests
+1. More Angular testing
+  * Review setup and basic testing
+1. Mocking and injecting services
   * Using `$rootScope.$digest()` to complete promises
+1. OAuth workflows (_if time_)
 
 Homework: Agency week!
