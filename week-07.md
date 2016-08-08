@@ -68,9 +68,11 @@ Homework: Shop service
   * Sanity check test
 1. Testing services
   * Injecting
+  * Using `$rootScope.$digest()` to complete promises
 1. Testing controllers
   * Using `$controller` provider
-1. Adding code coverage (_if time_)
+  * Mocking and injecting services
+1. Adding code coverage (_if time, or on Friday_)
   * Basic principle
   * Configuration with Karma
 

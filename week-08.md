@@ -13,42 +13,46 @@
   * User stories and estimation
   * Iterations and scrums
   * Continuous deployment (and GH webhooks)
-1. Code organization and style guides (_if time and not covered_)
 
 Homework: Agency week! (Submit user stories)
 
 ### Day 2
 
+1. Ajax with Angular
+  * Services as data models
+  * `$http` (options, promises)
+  * Testing `$http` with `$httpBackend`
+  * Flushing requests
 1. View routing
   * ui-router versus built-in
   * States and configuration
   * URL params
   * Using `$state.go()`
-1. More state management
-  * Auth and securing routes with `$stateChangeStart`
-  * State errors (`$stateChangeError`)
-  * Handling code errors with states and params (no URL)
 
 Homework: Agency week!
 
 ### Day 3
 
-1. Ajax with Angular
-  * Services as data models
-  * `$http` (options, promises)
-  * Testing `$http` with `$httpBackend`
-1. Route/state Exercise/Challenge **(?)**
-1. Mocking Ajax with `$httpBackend`
-  * Flushing requests
+1. More state management
+  * Auth and securing routes with `$stateChangeStart`
+  * State errors (`$stateChangeError`)
+  * Handling code errors with states and params (no URL)
+1. Basic custom directives
+  * Purpose and basic setup and usage
+  * Using as an attribute, element, or annotation (`restrict`)
+  * Using scope and passthrough
+  * Linking functionality
 
 Homework: Agency week!
 
 ### Day 4
 
-1. More Angular testing
-  * Review setup and basic testing
-1. Mocking and injecting services
-  * Using `$rootScope.$digest()` to complete promises
+1. Review custom directives
+  * Using `transclude` to wrap content
+1. Custom Filters
+  * Purpose and basic usage
+  * Adding options
+  * Using from a controller
 1. OAuth workflows (_if time_)
 
 Homework: Agency week!
