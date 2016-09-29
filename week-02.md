@@ -4,11 +4,13 @@
 
 ### Day 1
 
+> See previous week for any remaining items
+
 1. More HTML
   * Why use `div` or `span`?
   * meta tags (charset, description, author, ~~keywords~~)
   * html5 validator
-  * a11y, i18n, and l10n
+  * a11y, i18n, and l10n _Cut for time if needed_
 1. More CSS
   * Advanced attribute selectors
   * unit review (px, pt, %, em, rem, vw/vh?)
@@ -57,7 +59,7 @@ Homework: Refactor shirts with Sass
 1. Conditionals
   * if/else/else if, operators (and logical operators), parens
 
-Homework: Calculator (Pair program?)
+Homework: Calculator (Pair program)
 
 ### Day 4
 
