@@ -18,6 +18,7 @@ Homework: Dice game
 
 ### Day 2
 
+1. JSHint (CLI and in Atom)
 1. More on Arrays
   * methods: forEach, filter, map, reduce (?), join, concat, slice/splice (_tailor to time_)
 1. More on Iteration
