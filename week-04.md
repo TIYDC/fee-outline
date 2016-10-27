@@ -54,4 +54,4 @@ Homework: Chat app
 1. Git History
   * reset, revert
 
-Homework: **Group project** Choose Your Own Adventure
+Homework: **Group project** Character Battle
