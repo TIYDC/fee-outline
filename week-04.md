@@ -14,7 +14,7 @@
   * delegation (again)
   * `this` inside jQuery handlers
 
-Homework: JSHint weekend homework and fix all issues, review other homework
+Homework: jQuery photo album
 
 ### Day 2
 
