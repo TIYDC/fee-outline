@@ -51,15 +51,15 @@ Homework: Refactor shirts with Sass
   * primitives vs objects (very briefly)
   * Basic expressions (add, subtract, multiply, divide, concatenate)
 1. Comments
+1. Conditionals
+  * if/else/else if, operators (and logical operators), parens
 1. Functions
   * Basic structure (named args & return)
   * Calling & using the console
   * Variable scope (briefly)
   * return ceases execution
-1. Conditionals
-  * if/else/else if, operators (and logical operators), parens
 
-Homework: Calculator (Pair program)
+Homework: Simple exercises, Calculator (Pair program?)
 
 ### Day 4
 
@@ -77,4 +77,4 @@ Homework: Calculator (Pair program)
   * push, pop, shift, unshift
   * indexOf
 
-Homework: Asteroids
+Homework: Asteroids, Calculator

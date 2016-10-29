@@ -18,6 +18,7 @@ Homework: Dice game
 
 ### Day 2
 
+1. JSHint (CLI and in Atom)
 1. More on Arrays
   * methods: forEach, filter, map, reduce (?), join, concat, slice/splice (_tailor to time_)
 1. More on Iteration
@@ -51,7 +52,7 @@ Homework: Blackjack bug fixes and refactoring
 1. DOM Intro
   * what is it, the tree, nodes and elements
   * native traversal: querySelector, getElementById, NodeList (not array), parentNode, childNodes
-  * manipulation: innerHTML/Text, createElement, appendChild, removeChild, setAttribute
+  * manipulation: innerHTML/Text, createElement, appendChild, removeChild, setAttribute, cloneNode (deep)
   * events & handlers, bubbling, preventDefault, async nature (briefly)
 
 Homework: TODO app (vanilla JS)

@@ -53,7 +53,7 @@ Homework: Jedi Form
   * Document flow, float, and absolute (and z-index)
   * Clearing (plus clearfix - two ways)
 
-Homework: Octocats; Blog layout
+Homework: Cage Buddies; Octocats
 
 ### Day 4
 
