@@ -4,25 +4,32 @@
 
 ### Day 1
 
-1. **Combined:** What is the Internet
-1. API design
-  * methods, paths, data structures (JSON vs XML)
-1. Tools
-  * http-server
-  * jshint and style guides (maybe jscs?)
+1. jQuery Intro
+  * querying & selectors
+  * traversal: find, parents, siblings, end
+  * manipulation: create with `$('<p>')`, append, remove, attr, add/removeClass, toggleClass
+  * overloaded methods and return values (attr, css, val, etc)
+1. jQuery Events
+  * using `on()` and shortcuts like `click()` (and applying to multiple elements)
+  * delegation (again)
+  * `this` inside jQuery handlers
 
 Homework: JSHint weekend homework and fix all issues, review other homework
 
 ### Day 2
 
-1. API review (methods, paths, data structures)
-  * REST (vs others)
+1. What is the Internet
+1. API design
+  * methods, paths, data structures (JSON vs XML)
+  * REST
 1. Ajax
   * Core with XMLHttpRequest
   * jQuery.ajax(): url, method, data, contentType/dataType, headers
   * Async programming, callbacks, and closures
   * Using promises vs callbacks
   * Auth with tokens (briefly)
+1. Tools
+  * http-server
 
 Homework: GitHub Orgs
 
@@ -47,4 +54,4 @@ Homework: Chat app
 1. Git History
   * reset, revert
 
-Homework: **Group project** Choose Your Own Adventure
+Homework: **Group project** Character Battle

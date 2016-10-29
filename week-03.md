@@ -54,14 +54,5 @@ Homework: Blackjack bug fixes and refactoring
   * native traversal: querySelector, getElementById, NodeList (not array), parentNode, childNodes
   * manipulation: innerHTML/Text, createElement, appendChild, removeChild, setAttribute, cloneNode (deep)
   * events & handlers, bubbling, preventDefault, async nature (briefly)
-1. jQuery Intro
-  * querying & selectors
-  * traversal: find, parents, siblings, end
-  * manipulation: create with `$('<p>')`, append, remove, attr, add/removeClass, toggleClass
-  * overloaded methods and return values (attr, css, val, etc)
-1. jQuery Events
-  * using `on()` and shortcuts like `click()` (and applying to multiple elements)
-  * delegation
-  * `this` inside jQuery handlers
 
-Homework: TODO app
+Homework: TODO app (vanilla JS)
