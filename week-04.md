@@ -4,6 +4,8 @@
 
 ### Day 1
 
+1. What is jQuery
+  * using dependency management
 1. jQuery Intro
   * querying & selectors
   * traversal: find, parents, siblings, end
