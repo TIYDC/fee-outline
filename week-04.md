@@ -53,7 +53,9 @@ Homework: Chat app
   * Forks and cloning
   * Branching and strategies
   * Merging
+  * CLI enhancements
 1. Git History
   * reset, revert
+1. Atom plugins and snippets (_if time_)
 
 Homework: **Group project** Character Battle
