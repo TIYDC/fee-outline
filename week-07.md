@@ -76,4 +76,4 @@ Homework: Shop service
   * Basic principle
   * Configuration with Karma
 
-Homework: Angular TODOs (with tests)
+Homework: Shopular testing and code coverage
