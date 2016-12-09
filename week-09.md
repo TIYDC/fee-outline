@@ -16,31 +16,47 @@ Homework: Popular repos with detail popup
 
 ### Day 2
 
-1. Regular expressions
-1. Deployment to hosting service
-1. git revert/reset
-1. HTML5 Features (geo, usermedia, audio/video)
-1. Function programming and lodash
-1. jQuery plugins
-1. Angular `$resource`
-1. OAuth workflows
 1. Node.js
-1. ES6 workflows
+  * What is it? Why use it?
+  * Running apps
+  * App manifest: package.json
+  * Basic modules (export & require)
+  * Revealing module pattern
+  * Using core modules (fs)
+  * `process` object
+  * Dependencies and semver
+  * Choosing a module (dependency)
 
-**Open Day...**
-
-Homework: ...?
+Homework: Parking Tickets
 
 ### Day 3
 
-1. (see above)
+1. Node Web Servers and Express
+  * Basic http (core)
+  * Why use a framework and why Express?
+  * Basic routes and abstracted Router
+  * Middleware (and error middleware)
+1. Using a database with Node
 
-**Open Day...**
-
-Homework: Technical presentation
+Homework: Job board (back end only)
 
 ### Day 4
 
+1. OPEN... TOPIC IDEAS:
+  * Regular expressions
+  * Deployment to hosting service
+  * git revert/reset
+  * HTML5 Features (geo, usermedia, audio/video)
+  * Function programming and lodash
+  * jQuery plugins
+  * Angular `$resource`
+  * OAuth workflows
+  * ES6 workflows
+
+Homework: Technical presentation
+
+### Day 5
+
 1. Student presentations
 
-Homework: Final project ideas
+Homework: Final project plans
