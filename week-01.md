@@ -17,8 +17,8 @@
     - CSS class vs ID vs tag name
   * Discuss having a portfolio!
 1. Tools of the Trade
-  * Intro to command line and atom
-  * Opening projects, sidebar, highlighting, indentation
+  * Intro to command line
+  * Atom: Opening projects, sidebar, highlighting, indentation
 
 Homework: Ice cream shop; portfolio page/site
 
@@ -36,7 +36,6 @@ Homework: Ice cream shop; portfolio page/site
   * enctype for files
   * validation basics
   * using requestb.in to check data
-1. GitHub Pages intro (_if time_)
 
 Homework: Jedi Form
 
@@ -53,18 +52,16 @@ Homework: Jedi Form
   * Document flow, float, and absolute (and z-index)
   * Clearing (plus clearfix - two ways)
 
-Homework: Cage Buddies; Octocats
+Homework: GitHub Users; Octocats
 
 ### Day 4
 
+1. CSS reset/normalization
 1. More CSS
-  * More properties: more backgrounds, borders (radius), centering things, opacity, ...?
-  * specificity and overriding plus fallbacks (browser ignoring invalid declarations, _if time_)
+  * More properties: more backgrounds, borders (radius), opacity, ...?
+  * Centering tricks (`margin: 0 auto`) (+ more on that later)
 1. CSS pseudo classes: link/visited/active, hover, focus, first/last-child, nth-child(even/odd), (in)valid
 1. CSS transitions and transforms
-
-> Move to Week 2?
-1. CSS reset/normalization
-1. Web fonts and font icons
+1. Web fonts and font icons (Font Awesome)
 
 Homework: T-shirt Shop
