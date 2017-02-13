@@ -6,11 +6,11 @@
 
 1. Object-Oriented Programming
   * Constructors
-  * methods, `this`, and `call()`
+  * methods, `this`, and `call`/`apply`
   * Prototypes and inheritance
-1. Extending built-in objects
+1. Extending built-in objects (`Array.prototype`)
 
-Homework: Zoo?
+Homework: Zoo
 
 ### Day 2
 
@@ -19,17 +19,22 @@ Homework: Zoo?
   * throwing and reading stack traces
   * using a `try...catch...finally` block
 1. Using `instanceof`
-1. Debugging with Chrome (_given time_)
+1. Debugging with Chrome (_if time_)
 
 Homework: Zoo Errors
 
 ### Day 3
 
+1. CLI enhancements for git (aliases, scripts)
+1. More async programming: `setTimeout()` and `setInterval()`
 1. Promise review
   * chaining
   * using a library
 1. `localStorage`
-1. Intro to ES6 features
+1. Manipulating Git History with `reset`
+1. Discuss browser compatibility
+  * Adding Babel to Grunt, fetch polyfill
+
 
 Homework: Random GitHub Contributor
 

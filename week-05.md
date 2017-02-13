@@ -4,31 +4,30 @@
 
 ### Day 1
 
-1. Unit Testing
-  * What is it? e2e vs unit vs functional vs smoke
-  * Core concepts (harness, suite, group, test, assertion)
-  * TDD, TDD vs BDD style
-1. DocBlocks
-1. Using Mocha
-  * Basic structure
-  * Running tests and reading output
-  * mocking HTML, setup/teardown
-  * async tests (`done`) and thrown Errors
+1. What is jQuery
+  * Using dependency management (npm)
+1. jQuery Intro
+  * querying & selectors
+  * traversal: find, parents, siblings, end
+  * manipulation: create with `$('<p>')`, append, remove, attr, add/removeClass, toggleClass
+  * overloaded methods and return values (attr, css, val, etc)
+1. jQuery Events
+  * using `on()` and shortcuts like `click()` (and applying to multiple elements)
+  * delegation
+  * `this` inside jQuery handlers
 
-Homework: Calc Tests
+@TODO **WHAT IS THIS???**
+Homework: Another fetch with DOM insertion using jQuery
 
 ### Day 2
 
+1. jQuery Review (_if needed_)
+1. Mocking HMTL for tests
 1. Single Page Applications
   * SPA & Data-driven application concepts
   * Routing and views
   * `window.location`, URL hashes vs push/pop state, links
   * handling initial page load
-1. Bootstrap
-  * What is it, cautions
-  * Basic usage for UI elements
-  * Mention grid system, JS plugins, etc
-  * Can be used in Sass, but not required since you can just use the classes
 
 Homework: Thoughter; Tabbed GitHub clone (long project)
 
@@ -42,7 +41,7 @@ Homework: Thoughter; Tabbed GitHub clone (long project)
 1. Package Management
   * Bower vs npm, what to commit vs not (static site warning)
 
-Homework: Continue HW (mock out Ajax requests in tests)
+Homework: Continue project (mock out Ajax requests in tests)
 
 ### Day 4
 
@@ -57,4 +56,4 @@ Homework: Continue HW (mock out Ajax requests in tests)
 1. **_If time permits_**, intro Heroku
   * Build process and `Procfile`
 
-Homework: Continue HW
+Homework: Continue project (automation)

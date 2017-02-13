@@ -17,8 +17,9 @@
     - CSS class vs ID vs tag name
   * Discuss having a portfolio!
 1. Tools of the Trade
-  * Intro to command line
   * Atom: Opening projects, sidebar, highlighting, indentation
+  * Intro to command line
+  * http-server (_if time_)
 
 Homework: Ice cream shop; portfolio page/site
 
@@ -48,11 +49,11 @@ Homework: Jedi Form
   * DevTools inspector
   * Margin, padding, height, and width
   * Borders, shadow?
-1. CSS positioning
+1. CSS basic positioning
   * Document flow, float, and absolute (and z-index)
   * Clearing (plus clearfix - two ways)
 
-Homework: GitHub Users; Octocats
+Homework: GitHub Users (pair)
 
 ### Day 4
 

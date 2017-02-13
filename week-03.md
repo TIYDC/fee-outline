@@ -4,55 +4,76 @@
 
 ### Day 1
 
-1. More on JS Objects
-  * review (adding/removing props)
-  * more on creating and using methods and this
-  * JSON vs objects
-  * using keys() for data objects (for example all users in a game)
-1. Built-in Objects
-  * Date: discuss `new`, creation (w & w/o args), getters, timestamps, now()
-  * String: primitive vs object, upper/lower case, indexOf, substr, split
-  * Math: static methods, max, sin/cos, round, random (with int), floor, ceil
+1. JavaScript
+  * What is it? Where does it fit into web dev?
+  * History
+  * Node vs browser (briefly)
+1. Executing code (`node filename.js`)
+1. Using the console (briefly)
+1. Variables and Data Types
+  * `let` and `const` (vs `var`), valid names (how can they start, what can they contain?)
+  * number, string, boolean, null/undefined, NaN/Infinity, objects (briefly)
+  * primitives vs objects (very briefly)
+1. Basic expressions (add, subtract, multiply, divide, concatenate)
+1. Comments
+1. Conditionals
+  * if/else/else if, operators (and logical operators), parens (grouping)
+1. Functions
+  * Basic structure (named args & return)
+  * Variable scope (briefly)
+  * return ceases execution
 
-Homework: Dice game
+Homework: Single-file Code Exercises
 
 ### Day 2
 
-1. JSHint (CLI and in Atom)
-1. More on Arrays
-  * methods: forEach, filter, map, reduce (?), join, concat, slice/splice (_tailor to time_)
-1. More on Iteration
-  * while, for...in, recursive (_if time_)
-1. More on Conditionals
-  * type coercion
-  * data defaults and auditing
-  * ternary
-  * switch
-1. Unary and compound ops
-  * ++, --, discuss before/after assignment
-  * +=, -=, etc
+1. JavaScript Objects
+  * creating literals vs a `new` Object (briefly)
+  * primitives vs objects and multiple references (and garbage collection, briefly)
+  * properties: creating with object literal, accessing and assigning (dot and brackets), nesting
+  * basic methods
+1. JavaScript Arrays
+  * What are they? Why arrays vs objects? (ordered)
+  * numeric indeces (zero-based) and adding entries by index
+  * `push`, `forEach`, `includes`
+  * iteration with `for` loops (briefly) & length property (zero-based)
+1. Basic `require()` (briefly)
+1. String `split()` and `trim()` (briefly)
 
-Homework: Word Frequency and/or FizzBuzz
+Homework: Word Frequency + FizzBuzz (pair)
 
 ### Day 3
 
-1. More on functions
-  * expressions and using as values (higher order, passing as args)
-  * scope & hoisting, IIFE's, arguments "array" (variadic behavior)
-  * modules and namespaces
-  * recursive (_if not covered yet_)
-1. strict mode
+1. Using `Object.keys()` for property names
+1. JSHint (CLI and in Atom)
+  * strict mode (briefly)
+1. Unary and compound ops
+  * ++, --, discuss before vs after
+  * +=, -=, etc
+1. Built-in Objects
+  * Date: discuss `new`, creation (w & w/o args), timestamps & `Date.now()`, get- methods
+  * String: primitive vs object, upper/lower case, `includes`, `substring`, `split`
+  * Converting strings to numbers: `parseInt` vs `Number`; mention String casting with concatenation (`''+5`)
+  * Math (briefly): just static methods, `max`/`min`, `round`, `random`, `floor`/`ceil`
+1. Exporting functions from modules (briefly)
+1. Reading test output (briefly)
 
-Homework: Blackjack bug fixes and refactoring
+Homework: Card Game (pair)
 
 ### Day 4
 
-**_TODO: Rework this... too much content._**
+1. More on Arrays (_tailor to time_)
+  * iteration: `forEach`, `filter`, `map`, `reduce` (?)
+  * manipulation: `push`, `pop`, `concat`, `Array.from`, `join`, `slice`/`splice`
+1. More on Functions
+  * default args and auditing data (ternary?)
+  * scope & hoisting
+  * arguments "array" (variadic behavior)
+  * as expressions and using as values (higher order, passing as args)
+  * recursive (_if not covered yet_)
+1. Using Node Modules (briefly)
+  * Using `fs` to read a file
+  * Using `require` to separate your own code
 
-1. DOM Intro
-  * what is it, the tree, nodes and elements
-  * native traversal: querySelector, getElementById, NodeList (not array), parentNode, childNodes
-  * manipulation: innerHTML/Text, createElement, appendChild, removeChild, setAttribute, cloneNode (deep)
-  * events & handlers, bubbling, preventDefault, async nature (briefly)
-
-Homework: TODO app (vanilla JS)
+@TODO **CREATE THIS**
+Homework: Parking Stats

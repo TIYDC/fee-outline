@@ -6,75 +6,62 @@
 
 > See previous week for any remaining items
 
-1. More HTML
-  * Why use `div` or `span`?
-  * meta tags (charset, description, author, ~~keywords~~)
-  * html5 validator
-  * a11y, i18n, and l10n _Cut for time if needed_
+1. Layout review
+  * Absolute, relative, fixed, floats
+1. Flex box
+  * `display: flex`, justify-content, align-items, flex-direction, flex-wrap
+  * Play with <http://flexboxfroggy.com/>
+1. Specificity and overriding plus fallbacks (browser ignoring invalid declarations)
+1. Caching and how to work around it
+1. Accessibility (ADA sec 508)
+1. GitHub Pages intro (_if time_)
+
+Homework: Flexy Blog (pair?); Octocats
+
+### Day 2
+
+1. Atom plugins and snippets
 1. More CSS
-  * Advanced attribute selectors
-  * unit review (px, pt, %, em, rem, vw/vh?)
+  * Attribute selectors
+  * unit review (px, pt, %, em, rem, vw/vh)
   * other font considerations: line-height, letter-spacing, proper fonts!
-  * vendor prefixes
+  * vendor prefixes (briefly)
+  * using `calc()`
 1. Responsive Design
   * mobile-first strategy
   * viewport meta tag, `width=device-width`, `initial-scale=1`, pixels and dpi
   * media queries and breakpoints
   * using the device toolbar
-1. Caching and how to work around it.
 
-Homework: Responsive shirts - discuss "refactoring"
+Homework: Responsive Blog (pair?)
 
-### Day 2
+### Day 3
 
 1. Syntactically Awesome Style Sheets (Sass)
   * What is it and why we need it (and why we use scss)
   * Preprocessing generally
+  * Imports ("partials" and using underscores - why?)
   * Nesting and '&' (with efficiency warning)
-  * Variables and operators
-  * Mixins (and functions, briefly)
-  * Imports ("partials" and using underscores)
-1. Better Sass
-  * Efficiency, naming, comments
-1. Mention frameworks (Bourbon)
+  * Variables and operators (calculations)
 
-Homework: Refactor shirts with Sass
-
-### Day 3
-
-1. JavaScript
-  * What is it? Where does it fit in web dev?
-  * History
-1. Variables and Data Types
-  * var, valid names (how can they start, what can they contain?)
-  * number, string, boolean, null/undefined, NaN/Infinity, objects (briefly)
-  * primitives vs objects (very briefly)
-  * Basic expressions (add, subtract, multiply, divide, concatenate)
-1. Comments
-1. Conditionals
-  * if/else/else if, operators (and logical operators), parens
-1. Functions
-  * Basic structure (named args & return)
-  * Calling & using the console
-  * Variable scope (briefly)
-  * return ceases execution
-
-Homework: Simple exercises, Calculator (Pair program?)
+Homework: Sassy Blog (pair?); Sassy Octocats
 
 ### Day 4
 
-1. JavaScript Objects
-  * creating a `new` Object vs literals
-  * properties (creating with object, accessing (dot and brackets), adding new)
-  * primitives vs objects and multiple references (and garbage collection, briefly)
-  * nesting
-  * intro to methods and `this`
-1. JavaScript Arrays
-  * What are they? Why arrays vs objects? (ordered)
-  * `new` Array vs literals
-  * numeric indeces and addign entries by index
-  * iteration with basic `for` loops, length property (zero-based)
-  * push, pop, shift, unshift
-  * indexOf
+1. More Sass
+  * Review basics
+  * Mixins (and functions, briefly)
+1. Better Sass
+  * MOAR variables
+  * Efficiency (nesting mostly), naming, comments
+1. Mention frameworks (Bourbon)
+1. Bootstrap
+  * What is it... caution!
+  * Basic usage for UI elements
+    * forms, inputs, buttons
+    * glyphicons, nav/navbar, pagination, hero/jumbotron, alerts, panels
+  * Mention grid system (but advise to use flexbox)
+  * JS plugins (but these add weight)
+  * Can be used in Sass, but not required since you can just use the classes
 
-Homework: Asteroids, Calculator
+Homework: Widget Co

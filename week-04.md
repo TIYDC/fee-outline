@@ -4,19 +4,19 @@
 
 ### Day 1
 
-1. What is jQuery
-  * using dependency management
-1. jQuery Intro
-  * querying & selectors
-  * traversal: find, parents, siblings, end
-  * manipulation: create with `$('<p>')`, append, remove, attr, add/removeClass, toggleClass
-  * overloaded methods and return values (attr, css, val, etc)
-1. jQuery Events
-  * using `on()` and shortcuts like `click()` (and applying to multiple elements)
-  * delegation (again)
-  * `this` inside jQuery handlers
+1. Unit Testing
+  * What is it? e2e vs unit vs functional vs smoke
+  * Core concepts (harness, suite, group, test, assertion)
+  * TDD, TDD vs BDD style
+1. Dependency management
+1. DocBlocks (briefly)
+1. Using Mocha
+  * Basic structure
+  * Running tests and reading output
+  * async tests (`done`) and thrown Errors
 
-Homework: jQuery photo album
+@TODO **REVISE THIS FOR NODE**
+Homework: Calc Tests
 
 ### Day 2
 
@@ -24,38 +24,48 @@ Homework: jQuery photo album
 1. API design
   * methods, paths, data structures (JSON vs XML)
   * REST
-1. Ajax
-  * Core with XMLHttpRequest
-  * jQuery.ajax(): url, method, data, contentType/dataType, headers
-  * Async programming, callbacks, and closures
-  * Using promises vs callbacks
-  * Auth with tokens (briefly)
-1. Tools
-  * http-server
+1. Ajax with `fetch` (using `node-fetch`)
+  * url, method, data, headers (`Content-Type`),
+  * Async programming with promises (and chaining); discuss closures
+  * Auth with tokens (header and otherwise, briefly)
+1. Ajax error handling and notifications
 
-Homework: GitHub Orgs
+@TODO **CREATE THIS**
+Homework: Something with simple fetch and data analysis (GH? Weather?)
 
 ### Day 3
 
-1. More async programming
-  * `setTimeout()` and `setInterval()`
-  * Revisit closures
-1. API authentication workflows
-  * more on headers and tokens
-1. API URLs and CORS
-1. Ajax error handling and notifications
+1. JavaScript in the browser
+  * `<script>` tags and placement in HTML (and ordering briefly)
+  * Discuss lack of `require` or `module.exports` (and briefly new ES6 modules)
+1. DOM Intro
+  * what is it, the tree, nodes and elements
+1. Traversing
+  * `querySelector`, `querySelectorAll`, `getElementById`
+  * `NodeList` (not an array)
+  * `parentNode`, `childNodes`
+1. Manipulation
+  * `innerHTML` (and `innerText`), string templates
+  * `createElement`, `appendChild`, `removeChild`, `setAttribute`
+1. Using `fetch` with `FormData`
 
-Homework: Chat app
+@TODO **WHAT IS THIS???**
+Homework: Something with fetch (POST) and DOM insertion (pair)
 
 ### Day 4
 
 1. Git collaboration
   * Forks and cloning
   * Branching and strategies
-  * Merging
-  * CLI enhancements
-1. Git History
-  * reset, revert
-1. Atom plugins and snippets (_if time_)
+  * Merging and conflict resolution
+1. Functions as modules in the browser (IIFE)
+  * namespaces and what to export (functions)
+1. Event handling
+  * Basics with vanilla JS: `addEventListener`
+  * Using callbacks vs promises (briefly)
+  * async nature (briefly)
+  * Bubbling and `preventDefault`
+1. Discuss mocking HTML for tests (_not required_)
 
-Homework: **Group project** Character Battle
+@TODO **PICK ONE, REVISE**
+Homework: jQuery photo album; todo app (teams)
