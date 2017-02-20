@@ -75,5 +75,4 @@ Homework: Card Game (pair)
   * Using `fs` to read a file
   * Using `require` to separate your own code
 
-@TODO **CREATE THIS**
-Homework: Parking Stats
+Homework: DC Traffic Citation Analysis
