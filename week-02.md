@@ -8,10 +8,10 @@
 
 1. Layout review
   * Absolute, relative, fixed, floats
+1. Specificity and overriding plus fallbacks (browser ignoring invalid declarations)
 1. Flex box
   * `display: flex`, justify-content, align-items, flex-direction, flex-wrap
   * Play with <http://flexboxfroggy.com/>
-1. Specificity and overriding plus fallbacks (browser ignoring invalid declarations)
 1. Caching and how to work around it
 1. Accessibility (ADA sec 508)
 1. GitHub Pages intro (_if time_)
