@@ -15,7 +15,6 @@
   * Running tests and reading output
   * async tests (`done`) and thrown Errors
 
-@TODO **REVISE THIS FOR NODE**
 Homework: Calc Tests
 
 ### Day 2
