@@ -4,33 +4,18 @@
 
 ### Day 1
 
-1. Unit Testing
-  * What is it? e2e vs unit vs functional vs smoke
-  * Core concepts (harness, suite, group, test, assertion)
-  * TDD, TDD vs BDD style
-1. Dependency management
-1. DocBlocks (briefly)
-1. Using Mocha
-  * Basic structure
-  * Running tests and reading output
-  * async tests (`done`) and thrown Errors
-
-Homework: Calc Tests
-
-### Day 2
-
 1. What is the Internet
 1. API design
   * methods, paths, data structures (JSON vs XML)
   * REST
 1. Ajax with `fetch` (using `node-fetch`)
-  * url, method, data, headers (`Content-Type`),
-  * Async programming with promises (and chaining); discuss closures
+  * url, method, data (body), headers (`Content-Type`)
+  * Async programming with promises (and chaining); callbacks (ew)
+  * Mention variable scope, discuss closures (_if time, more later_)
   * Auth with tokens (header and otherwise, briefly)
-1. Ajax error handling and notifications
+1. Error handling and notifications (Ajax, etc)
 
-@TODO **CREATE THIS**
-Homework: Something with simple fetch and data analysis (GH? Weather?)
+Homework: GitHub Stats (pair?)
 
 ### Day 3
 
@@ -41,15 +26,27 @@ Homework: Something with simple fetch and data analysis (GH? Weather?)
   * what is it, the tree, nodes and elements
 1. Traversing
   * `querySelector`, `querySelectorAll`, `getElementById`
-  * `NodeList` (not an array)
+  * `NodeList` (not an array), `Array.from()`
   * `parentNode`, `childNodes`
 1. Manipulation
-  * `innerHTML` (and `innerText`), string templates
+  * `innerHTML` (and `innerText`), **string templates**
   * `createElement`, `appendChild`, `removeChild`, `setAttribute`
-1. Using `fetch` with `FormData`
 
-@TODO **WHAT IS THIS???**
-Homework: Something with fetch (POST) and DOM insertion (pair)
+Homework: GitHub Orgs
+
+### Day 3
+
+1. Review DOM
+1. Event handling
+  * Basics with vanilla JS: `addEventListener`
+  * Using callbacks vs promises
+  * async nature (briefly)
+  * Bubbling and `preventDefault`
+1. Variable scope, hoisting, closures
+1. Functions as modules in the browser (IIFE)
+  * namespaces and what to export (functions)
+
+Homework: Job Application (pair)
 
 ### Day 4
 
@@ -57,14 +54,16 @@ Homework: Something with fetch (POST) and DOM insertion (pair)
   * Forks and cloning
   * Branching and strategies
   * Merging and conflict resolution
-1. Functions as modules in the browser (IIFE)
-  * namespaces and what to export (functions)
-1. Event handling
-  * Basics with vanilla JS: `addEventListener`
-  * Using callbacks vs promises (briefly)
-  * async nature (briefly)
-  * Bubbling and `preventDefault`
-1. Discuss mocking HTML for tests (_not required_)
+1. What is jQuery?
+  * Using dependency management (npm)
+1. jQuery Intro
+  * querying & selectors
+  * traversal: find, parents, siblings, end
+  * manipulation: create with `$('<p>')`, append, remove, attr, add/removeClass, toggleClass
+  * overloaded methods and return values (attr, css, val, etc)
+1. jQuery Events
+  * using `on()` and shortcuts like `click()` (and applying to multiple elements)
+  * delegation
+  * `this` inside jQuery handlers
 
-@TODO **PICK ONE, REVISE**
-Homework: jQuery photo album; todo app (teams)
+Homework: Thoughter (teams of 3-4)
