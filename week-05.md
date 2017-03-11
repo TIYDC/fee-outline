@@ -4,44 +4,48 @@
 
 ### Day 1
 
-1. What is jQuery
-  * Using dependency management (npm)
-1. jQuery Intro
-  * querying & selectors
-  * traversal: find, parents, siblings, end
-  * manipulation: create with `$('<p>')`, append, remove, attr, add/removeClass, toggleClass
-  * overloaded methods and return values (attr, css, val, etc)
-1. jQuery Events
-  * using `on()` and shortcuts like `click()` (and applying to multiple elements)
-  * delegation
-  * `this` inside jQuery handlers
+1. Promise review
+  * Creating new `Promise`s
+  * Chaining
+  * `setTimeout()` (async concept review)
+1. Template strings
+1. `localStorage` / `sessionStorage`
+1. DocBlocks (and autocomplete with Docblockr)
+1. JSHint and `.jshintrc`
+1. CLI enhancements for git (aliases, scripts)
 
-@TODO **WHAT IS THIS???**
-Homework: Another fetch with DOM insertion using jQuery
+Homework: Refactor weekend project (teams)
 
 ### Day 2
 
-1. jQuery Review (_if needed_)
-1. Mocking HMTL for tests
-1. Single Page Applications
-  * SPA & Data-driven application concepts
-  * Routing and views
-  * `window.location`, URL hashes vs push/pop state, links
-  * handling initial page load
+1. Unit Testing
+  * What is it? e2e vs unit vs functional vs smoke
+  * Core concepts (harness, suite, group, test, assertion)
+  * TDD, TDD vs BDD style
+1. Dependency management
+1. Using Mocha, chai, and karma
+  * Dependencies (dev)
+  * File structure
+  * Setting up Karma (why?) `karma init calc.conf.js`
+  * Structure of tests & assertions
+  * Chai assertions (BDD style)
+  * Running tests and reading output
 
-Homework: Thoughter; Tabbed GitHub clone (long project)
+Homework: Calc Tests (pair?)
 
 ### Day 3
 
 1. Review Testing Concepts
-  * Testing exercises
+  * Testing exercises (?)
+1. Mocking HMTL for tests
+  * Creating DOM elements in spec files
+  * `beforeEach`/`afterEach`
 1. Mocking Ajax requests
   * Why do it?
-  * Basic workflow, using Mockjax, other tools
-1. Package Management
-  * Bower vs npm, what to commit vs not (static site warning)
+  * Async testing, thrown Errors (?)
+  * Basic workflow, using sinon
 
-Homework: Continue project (mock out Ajax requests in tests)
+Homework: Test Thoughter DOM and Ajax methods
 
 ### Day 4
 
@@ -53,7 +57,5 @@ Homework: Continue project (mock out Ajax requests in tests)
   * Installing and configuring tasks
   * Our tasks: clean, copy, jshint, mocha, sass, concat
   * Watching for changes
-1. **_If time permits_**, intro Heroku
-  * Build process and `Procfile`
 
-Homework: Continue project (automation)
+Homework: Thoughter app automation

@@ -5,9 +5,11 @@
 ### Day 1
 
 1. Object-Oriented Programming
-  * Constructors
-  * methods, `this`, and `call`/`apply`
-  * Prototypes and inheritance
+  * Classes & Constructors
+  * getters & setters
+  * methods, `super`, `this`
+  * Prototypes and inheritance (`extends`)
+  * `call`/`apply`/`bind`
 1. Extending built-in objects (`Array.prototype`)
 
 Homework: Zoo
@@ -25,21 +27,6 @@ Homework: Zoo Errors
 
 ### Day 3
 
-1. CLI enhancements for git (aliases, scripts)
-1. More async programming: `setTimeout()` and `setInterval()`
-1. Promise review
-  * chaining
-  * using a library
-1. `localStorage`
-1. Manipulating Git History with `reset`
-1. Discuss browser compatibility
-  * Adding Babel to Grunt, fetch polyfill
-
-
-Homework: Random GitHub Contributor
-
-### Day 4
-
 1. SOLID
 1. DB Design
   * schemas versus records
@@ -49,8 +36,17 @@ Homework: Random GitHub Contributor
   * indeces
   * normalization
 
-Homework: DB Design (**1 night**)
+Homework: DB Design
 
-### Day 5
+### Day 4
 
-Homework: Technical Blog Post (and past HW review)
+1. Debugging with Chrome (_if not covered_)
+1. Discuss browser compatibility
+  * Adding Babel to Grunt, fetch polyfill
+1. Single Page Applications
+  * SPA & Data-driven application concepts
+  * Routing and views
+  * `window.location`, URL hashes vs push/pop state, links
+1. Manipulating Git History with `reset` (?)
+
+Homework: Technical Blog Post (_one night_)
