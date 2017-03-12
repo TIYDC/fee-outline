@@ -21,6 +21,7 @@ Homework: Zoo
   * throwing and reading stack traces
   * using a `try...catch...finally` block
 1. Using `instanceof`
+1. Variable hoisting (re-introduce `var`)
 1. Debugging with Chrome (_if time_)
 
 Homework: Zoo Errors
