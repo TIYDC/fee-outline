@@ -43,11 +43,9 @@ Homework: Agency week!
 
 ### Day 4
 
-1. Review Angular testing setup
+1. Review states
+  * Using `$state` to show and hide links
+1. Review testing setup
   * Testing `$http` with `$httpBackend`
-1. Basic custom directives
-  * Purpose and basic setup and usage
-  * Using as an attribute, element, or annotation (`restrict`)
-  * Using scope and passthrough
 
 Homework: Agency week!
