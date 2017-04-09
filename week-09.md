@@ -48,6 +48,13 @@ Homework: Job board server (no database)
   * Adding auth middleware
 1. Using a database with Node
   * Mongo basics
-  * Mongoose schemas
+  * Connecting to MongoDB
+  * Disconnecting on SIGINT
+  * Mongoose schemas & models
+  * CRUD with Mongoose (`save`, `find`/`findOne`, `save`, `remove`)
+  * `find()` -> query, then do `query.exec()` to get a Promise
+  * Why `exec()` ? Because: `Movie.find({ name: /blood/i }).limit(10).sort({ year: -1 }).exec()`
+  * Queries: `{ name: /john/i, age: { $gte: 18 }`
+  * Regex (_if time_): `new RegExp()` to use strings
 
 Homework: Job board (back end only)
